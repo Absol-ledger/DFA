@@ -1,8 +1,4 @@
 #!/usr/bin/env python3
-"""
-FACT Training - Compatible with FaceAdapter_v1 inference
-Integrates with complexity-labeled dataset from enhanced data processing
-"""
 
 import os
 import sys

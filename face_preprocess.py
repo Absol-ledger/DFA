@@ -1,6 +1,4 @@
-"""
-Enhanced face preprocessing utilities with improved error handling and functionality.
-"""
+
 
 import cv2
 import numpy as np
