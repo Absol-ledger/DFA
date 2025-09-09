@@ -57,7 +57,7 @@ class TrainingConfig:
     weight_decay: float = 0.01
     gradient_clip: float = 1.0
     
-    # FACT specific parameters
+    # DFA specific parameters
     lambda_fair: float = 0.01
     mask_prob: float = 0.5
     adapter_scale: float = 1.0
